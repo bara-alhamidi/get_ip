@@ -1,7 +1,7 @@
 import socket
 # written by Albara'a Alhamidi
 print("      ####################################")
-print("      #   Thank you for work my scrip ❤  #")
+print("      #   Thank you for work my script ❤  #")
 print("      #       instgram :   _.brbr        #")
 print("      ####################################")
 
