@@ -2,7 +2,7 @@ import socket
 # written by Albara'a Alhamidi
 print("      ####################################")
 print("      #   Thank you for work my script ❤ #")
-print("      #       instgram :   _.brbr        #")
+print("      #       instgram :  xx9b1r         #")
 print("      ####################################")
 
 def get_ip(website):
